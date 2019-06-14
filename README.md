@@ -1,5 +1,5 @@
 ## V_1.0 - Selfie-Segmenter
-Ai powered web app that takes as input the half-length portrait of a person and outputs a segmented image showing the human separated from the background - Tensorflow.js
+
 
 Live Web App: http://selfieseg.test.woza.work/
 
