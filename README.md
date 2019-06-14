@@ -7,6 +7,8 @@ Live Web App: http://selfieseg.test.woza.work/
 
 <img src="http://selfieseg.test.woza.work/assets/selfieseg.png" width="500"></img>
 
+<img src="http://selfieseg.test.woza.work/assets/seg_man.png" width="500"></img>
+
 <br>
 
 This is a prototype for an online tool that can take as input a portrait image of a person and output a segmented image that has separated the person from the background. The quality of the output segmentation is not very good, as shown above. This is because the model was trained using only 4000 of the 24,479 images in the dataset. My main reason for building this app was to understand the workflow involved in building an end-to-end web based solution that ouputs an image. The same workflow can also be used for other fun machine learning applications like style transfer. Or on a more serious note, imagine having a freely available app like this that could take as input the photo of a missing child and output an aged photo.
