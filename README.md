@@ -1,4 +1,4 @@
-## V_1.0 - Selfie-Segmenter
+## Selfie-Segmenter
 
 
 Live Web App: http://selfieseg.test.woza.work/
