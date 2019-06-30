@@ -3,6 +3,11 @@
 
 Live Web App: http://selfieseg.test.woza.work/
 
+<i>For best results please use the Chrome browser to access the app.<br>
+In other browsers the app may freeze.</i>
+
+
+
 <br>
 
 <img src="http://selfieseg.test.woza.work/assets/selfieseg.png" width="500"></img>
